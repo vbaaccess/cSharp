@@ -1,0 +1,27 @@
+--- VISUAL STUDIO CODE ---
+https://stackoverflow.com/questions/30037808/multiline-editing-in-visual-studio-code
+https://stackoverflow.com/questions/42000798/how-to-add-assembly-references-in-visual-studio-code
+
+--- cSharp ---
+https://www.youtube.com/watch?v=hxpr3IdqCzo
+https://www.p-programowanie.pl/c-sharp/delegaty/
+https://www.p-programowanie.pl/c-sharp/wlasciwosci-akcesory-get-set/
+https://docs.microsoft.com/pl-pl/visualstudio/install/create-an-offline-installation-of-visual-studio?view=vs-2019
+https://docs.microsoft.com/pl-pl/dotnet/framework/winforms/controls/app-icons-to-the-taskbar-with-wf-notifyicon
+
+NotifyIcon Class 
+https://docs.microsoft.com/pl-pl/dotnet/api/system.windows.forms.notifyicon?view=netframework-4.8
+https://docs.microsoft.com/pl-pl/dotnet/api/system.windows.forms.notifyicon.showballoontip?view=netframework-4.8
+
+FileInfo Class 
+https://docs.microsoft.com/pl-pl/dotnet/api/system.io.fileinfo?view=netframework-4.8
+
+https://www.youtube.com/watch?v=LGp8c1vzsxc
+
+CLR C#
+https://cezarywalenciuk.pl/blog/programing/post/net-clr-procedura-w-sql-server-prosty-przyklad
+
+--- inne
+http://math.uni.lodz.pl/~bleja/asb/
+http://www.axmpaperspacescalemodels.com/
+© 2021 GitHub, Inc.
