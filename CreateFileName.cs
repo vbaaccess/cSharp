@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace KeyGeneratorCSharp
+namespace FileNameGeneratorCSharp
 {
     class CreateFileName
     {
-        
+
         private string _FilePrefix;
         private string _ShortName;
         private string _FileSufix;
@@ -17,7 +17,7 @@ namespace KeyGeneratorCSharp
 
         public string MidFileName = "";
 
-        public string FilePrefix { get; set;}
+        public string FilePrefix { get; set; }
         public string FileSufix { get; set; }
         public string FileExt { get; set; }
         public string NewFileName
@@ -47,7 +47,7 @@ namespace KeyGeneratorCSharp
             string shortN = "";
             string testChar = "";
 
-            for (int lpL=0; lpL< MidFileName.Length ; lpL++)
+            for (int lpL = 0; lpL < MidFileName.Length; lpL++)
             {
                 testChar = MidFileName.Substring(lpL, 1);
                 if (AllowedCharacters.IndexOf(testChar.ToLower()) > 0)
