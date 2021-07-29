@@ -1,7 +1,7 @@
 using System;
 using System.IO;
 
-namespace InformMeSerwer
+namespace ClassLogs
 {
     class ClassLogs
     {
@@ -53,7 +53,7 @@ namespace InformMeSerwer
             }
 
             try
-            { 
+            {
                 if (!Directory.Exists(path))
                     Directory.CreateDirectory(path);
             }
@@ -63,7 +63,7 @@ namespace InformMeSerwer
             }
 
             try
-            { 
+            {
                 if (!File.Exists(filepath))
                 {
                     // Create a file to write to.
@@ -81,7 +81,7 @@ namespace InformMeSerwer
                         sw.WriteLineAsync(sMessage);
                         sw.Close();
                     }
-                        
+
                 }
             }
             catch (IOException)
@@ -90,7 +90,7 @@ namespace InformMeSerwer
                 //System.Windows.Forms.MessageBox.Show(e.Message + ":" + sMessage);
             }
             catch (Exception)
-            {                
+            {
                 throw;
             }
         }
