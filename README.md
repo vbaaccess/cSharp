@@ -8,3 +8,6 @@ klasa pozwalająca dowlolny string zamienic na nazwe plikou z wylaczeniem niebez
 - przydatne przy zapisie logow,
 - przy generowaniu pojedynczych plikow
 - przy kolejnych np. wersji plikow i potrzeibie zachowania odmiennej nazwy
+
+ClassLogs.cs
+Klasa pozwalajaca tworzyc pliki z logami
